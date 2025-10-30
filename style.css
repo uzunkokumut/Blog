@@ -87,7 +87,6 @@ p {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
 }
 
-/* LOGIN PAGE STYLES (if used) */
 .login {
     margin: 5%;
     margin-left: 25%;
@@ -121,7 +120,6 @@ p {
     border-radius: 8px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 600px) {
     .navbar {
         flex-direction: column;
@@ -139,3 +137,4 @@ p {
         font-size: 20px;
     }
 }
+
